@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Designer
 ------------------------
 
-I am a self taught developer who sorta fell into this by accident. I have been freelancing for 7 years, small to medium sized projects.
+I am a self taught developer. I have been freelancing for 7 years, mostly small to medium sized projects.
 
 *   🌍  I'm based in Las Vegas, NV
 *   ✉️  You can contact me at [hello@ajkg.dev](mailto:hello@ajkg.dev)
@@ -41,10 +41,10 @@ I am a self taught developer who sorta fell into this by accident. I have been f
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                           
                       <a href="https://discord.com/users/#0694" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
