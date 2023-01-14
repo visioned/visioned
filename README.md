@@ -53,5 +53,5 @@ I am a self taught developer. I have been freelancing for 7 years, mostly small 
 
 ### Badges
 <a href="https://github.com/visioned" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visioned&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### Support Me<a
-href="https://www.buymeacoffee.com/ajkg11"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### Support Me
+<a href="https://www.buymeacoffee.com/ajkg11"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
