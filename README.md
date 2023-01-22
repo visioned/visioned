@@ -11,6 +11,7 @@ I am a self taught developer. I have been freelancing on and off for 5 years, mo
 *   🚀  I'm currently working on [Byond Details](http://byonddetails.com) - a mobile detailing service
 *   🧠  I'm learning Three.js
 *   🤝  I'm open to collaborating on interesting projects
+*   👾  I'm currently playing: The Evil Within 2
 *   ⚡  Open to a full time position or select freelance projects
    
 ### Skills 
