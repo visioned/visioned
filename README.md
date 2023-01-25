@@ -8,7 +8,7 @@ I am a self taught developer. I have been freelancing on and off for 5 years, mo
 
 *   🌍  I'm based in Las Vegas, NV
 *   ✉️  You can contact me at [hello@ajkg.dev](mailto:hello@ajkg.dev)
-*   🚀  I'm currently working on [Byond Details](http://byonddetails.com) - a mobile detailing service
+*   🚀  I'm currently working on [Byond Details](http://byonddetails.com) - a booking application for a mobile detailing service
 *   🧠  I'm learning Three.js
 *   🤝  I'm open to collaborating on interesting projects
 *   👾  Currently staying up all night playing [The Evil Within 2](https://store.steampowered.com/app/601430/The_Evil_Within_2/)
