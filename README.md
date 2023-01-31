@@ -14,7 +14,7 @@ I am a self taught developer. I have been freelancing on and off for 5 years, mo
 *   👾  Currently staying up all night playing [The Evil Within 2](https://store.steampowered.com/app/601430/The_Evil_Within_2/)
 *   ⚡  Open to a full time position or select freelance projects
    
-### Skills 
+### Familiar Skills 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -52,4 +52,3 @@ I am a self taught developer. I have been freelancing on and off for 5 years, mo
 <a href="https://www.github.com/visioned" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/aj.gonzales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/_ajgonzales" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.twitch.tv/draj___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
