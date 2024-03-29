@@ -5,12 +5,8 @@ I build things.
 ------------------------
 
 *   🌍  I'm based in Las Vegas, NV
-*   ✉️  You can contact me at [hello@ajkg.dev](mailto:hello@ajkg.dev)
-*   🚀  I'm currently working on [Byond Details](http://byonddetails.com) - a booking application for a mobile detailing service
-*   🧠  I'm learning everyday
 *   🤝  I'm open to collaborating on interesting projects
-*   👾  Currently playing [The Evil Within 2](https://store.steampowered.com/app/601430/The_Evil_Within_2/)
-*   ⚡  Open to a full time position or select freelance projects
+*   ⚡  Open to select freelance projects
    
 ### Tools, Languages, Frameworks
 
