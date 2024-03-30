@@ -5,8 +5,7 @@ I build things.
 ------------------------
 
 *   🌍  I'm based in Las Vegas, NV
-*   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Open to select freelance projects
+*   ⚡  I'm open to select freelance projects
    
 ### Tools, Languages, Frameworks
 
